@@ -1,0 +1,42 @@
+<body onload="update()">
+  
+</body>
+
+<input type="text" id="input">
+<button onclick="sumbit()">Submit</button>
+<div id="elements">
+  <img src="" alt=""><img src="" alt=""><img src="" alt=""><br>
+  <img src="" alt=""><img src="" alt=""><img src="" alt=""><br>
+  <img src="" alt=""><img src="" alt=""><img src="" alt=""><br>
+</div>
+
+<style>
+  #elements{
+    border:10px black solid;
+    width: calc(3 * 32px);
+  }
+  img{
+    padding:0;
+  }
+  body{
+    background: black;
+    background-repeat: repeat;
+  }
+</style>
+
+<script>
+function update(){
+  document.getElementById("input").value = localStorage.getItem('url')
+  var url = document.getElementById("input");
+  localStorage.setItem('url',url.value)
+  document.body.style.backgroundImage = "url('"+url.value+"')";
+  for (i = 0; i < 9; i++) {
+      document.getElementsByTagName("img")[i].setAttribute("src", url.value);
+    }
+}
+
+  function sumbit() {
+    var url = document.getElementById("input");
+    localStorage.setItem('url',url.value)
+  }
+</script>
