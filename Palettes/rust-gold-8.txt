@@ -1,0 +1,13 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Rust Gold 8
+;Description: This pallete was made based on rust colors and gold tones.
+;Colors: 8
+FFf6cd26
+FFac6b26
+FF563226
+FF331c17
+FFbb7f57
+FF725956
+FF393939
+FF202020

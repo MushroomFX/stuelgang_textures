@@ -1,0 +1,13 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Ammo-8
+;Description: Created by <a target="_blank" href="https://twitter.com/rsvpasap1">rsvp asap</a>.
+;Colors: 8
+FF040c06
+FF112318
+FF1e3a29
+FF305d42
+FF4d8061
+FF89a257
+FFbedc7f
+FFeeffcc

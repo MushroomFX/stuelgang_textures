@@ -1,0 +1,12 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Sirens at Night
+;Description: Teal and red is one of my favourite palettes, so I decided to make a quick palette to upload here.
+;Colors: 7
+FFdaf2e9
+FF95e0cc
+FF39707a
+FF23495d
+FF1c2638
+FF9b222b
+FFf14e52

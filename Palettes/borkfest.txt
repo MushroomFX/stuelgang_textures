@@ -1,0 +1,13 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Borkfest
+;Description: This palette mostly composed of warm colors is meant to bring softness and warmth, just like homemade bread that just came out of the oven, freshly made pancakes or patting a shiba inu on the cheeks.
+;Colors: 8
+FFdfd785
+FFebc275
+FFf39949
+FFff7831
+FFca5a2e
+FF963c3c
+FF3a2802
+FF202215

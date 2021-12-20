@@ -1,0 +1,14 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Coffee 9
+;Description: 
+;Colors: 9
+FF342467
+FF7aa0e1
+FFa8d4ff
+FFffffff
+FF8d3564
+FFe16956
+FFf5a15c
+FFffda99
+FFffafa3
