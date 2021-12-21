@@ -1,4 +1,3 @@
-cd ..
 echo var importLS = ' >LS.js
-tree /f >>LS.js
+dir /s >>LS.js
 echo ' >>LS.js
