@@ -1,9 +1,0 @@
-;paint.net Palette File
-;Downloaded from Lospec.com/palette-list
-;Palette Name: Nymph GB
-;Description: 
-;Colors: 4
-FF2c2137
-FF446176
-FF3fac95
-FFa1ef8c

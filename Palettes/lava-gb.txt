@@ -1,9 +1,0 @@
-;paint.net Palette File
-;Downloaded from Lospec.com/palette-list
-;Palette Name: Lava-GB
-;Description: Lava-GB is a simple 4 color palette designed to emulate the colors of lava.
-;Colors: 4
-FF051f39
-FF4a2480
-FFc53a9d
-FFff8e80

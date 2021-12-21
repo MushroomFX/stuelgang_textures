@@ -1,9 +1,0 @@
-;paint.net Palette File
-;Downloaded from Lospec.com/palette-list
-;Palette Name: 2bit demichrome
-;Description: 
-;Colors: 4
-FF211e20
-FF555568
-FFa0a08b
-FFe9efec
