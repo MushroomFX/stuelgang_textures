@@ -1,0 +1,9 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Wish GB
+;Description: 
+;Colors: 4
+FF622e4c
+FF7550e8
+FF608fcf
+FF8be5ff

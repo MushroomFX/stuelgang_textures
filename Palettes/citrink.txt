@@ -1,0 +1,13 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Citrink
+;Description: A very bright and acid color palette <img class="emoji p16" src="/emoji/lospec-discord/colors.png" /> 
+;Colors: 8
+FFffffff
+FFfcf660
+FFb2d942
+FF52c33f
+FF166e7a
+FF254d70
+FF252446
+FF201533
